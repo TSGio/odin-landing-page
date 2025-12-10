@@ -153,9 +153,29 @@ h1 {
     border-color: white;
     background-color: #3882F6;
     color: white;
+    margin-top: 50px;
+    box-shadow: none;
 }
 
-.footer {
 
-    text-align: center;
+.cta-text { 
+    color: #E5E7EB;
+    margin-top: 40px;
+    margin-right: 150px;
+
+}
+
+
+
+footer {
+    display: flex;;
+justify-content: center;
+background-color: #1F2937;
+height: 90px;
+margin-top: 100px;
+}
+
+footer P {
+    color:#E5E7EB;
+    margin-top: 40px;
 }
